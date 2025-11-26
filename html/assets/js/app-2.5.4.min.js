@@ -1043,7 +1043,7 @@ window.onload = function() {
               alert("Low speed or latency has been detected. Please scroll down, "+
 		    "enter your information and current subscription speeds, and submit."+
 		    "Don’t forget to complete three speed tests over three days to make sure your measurements are counted!"+
-                    " - The Internet Equity Initiative Team");
+                    " - The Internet Innovation Initiative Team");
             }
             document.getElementById("measured_down").value = downloadSpeed.toFixed(2);
             document.getElementById("measured_up").value = uploadSpeed.toFixed(2);
